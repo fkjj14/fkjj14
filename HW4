@@ -1,2 +1,3 @@
 #print (my name is my_name)
-my_name = Jeanne dʼArc
+my_name = Jeanne Marianna
+print(“my name is“, my_name)
